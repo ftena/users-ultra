@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Users Ultra Lite\n"
 "POT-Creation-Date: 2015-05-09 22:43-0300\n"
-"PO-Revision-Date: 2015-05-13 13:06+0100\n"
+"PO-Revision-Date: 2015-05-13 13:16+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -3360,11 +3360,11 @@ msgstr "Estado de la cuenta"
 
 #: ../templates/basic/dashboard.php:204
 msgid "My Latest Messages"
-msgstr "Mis mensajes"
+msgstr "Mis últimos mensajes"
 
 #: ../templates/basic/dashboard.php:225
 msgid "My Latest Photos:"
-msgstr "Mis Fotos:"
+msgstr "Mis últimas fotos:"
 
 #: ../templates/basic/dashboard.php:256
 #: ../xooclasses/xoo.userultra.user.php:2391
@@ -3384,7 +3384,7 @@ msgstr ""
 #: ../xooclasses/xoo.userultra.user.php:2411
 #: ../xooclasses/xoo.userultra.user.php:2415
 msgid "My Posts"
-msgstr "Mis Mensajes"
+msgstr "Mis entradas"
 
 #: ../templates/basic/dashboard.php:343
 msgid "Here you can manage your posts. "
@@ -4855,7 +4855,7 @@ msgstr "Etiquetas:"
 #: ../xooclasses/xoo.userultra.publisher.php:322
 #: ../xooclasses/xoo.userultra.publisher.php:444
 msgid "Add New Post"
-msgstr "Añadir nueva entrada"
+msgstr "Añadir entrada"
 
 #: ../xooclasses/xoo.userultra.publisher.php:298
 msgid "Max Allowed Posts: "
